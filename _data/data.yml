@@ -59,19 +59,21 @@ educationcomplete:
     university: Instituto Tecnológico del estado de Colima (TecNM)
     time: 2017 Oct - In progress
     details: |
-      - Specialist data mining
-
+      Specialist data mining
 
   - degree: Ruby on Rails Web Developer
-      university: BrightCoders Academy
-      time: 2021 Oct - In progress
-      details: |
-      - Develop web with Ruby on rails and work in team to solve problems, then use the differents ruby's gems
+    university: BrightCoders Academy
+    time: 2021 Oct - In progress
+    details: |
+      Develop web with Ruby on rails and work in team to solve problems, then use the differents ruby's gems
 
 
-
-
-
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
 skills:
   title: Technical Skills # NO MODIFICAR
 
