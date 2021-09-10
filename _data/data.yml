@@ -38,10 +38,13 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Teamwork and collaboration
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Management
+      link: # dejar en blanco
+
+    - item: Open-mindedness and adaptability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -57,6 +60,26 @@ educationcomplete:
     time: 2017 Oct - In progress
     details: |
       - Specialist data mining (In progress)
+
+educationcomplete:
+  - degree: Ruby on Rails Web Developer
+    university:  BrightCoders Academy
+    time: 2021 Oct - In progress
+    details: |
+      Develop web with Ruby on rails and work in team to solve problems, then use the differents ruby's gems
+
+experiences:
+  - role: 
+    time: 
+    company: 
+    details: |
+
+
+  - role: 
+    time: 
+    company: 
+    details: |
+
 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
